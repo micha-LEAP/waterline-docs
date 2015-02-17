@@ -27,7 +27,7 @@ It is written entirely in Javascript and runs on Node.js.
 | [Sails-Memory](https://github.com/balderdashy/sails-memory)                     | [balderdash](https://github.com/balderdashy) |
 
 
-If you have an adapter you would like added, submit a PR and add it to the list.
+See the [Adapters](adapters.md) page for more.
 
 
 ##### Contributing to the docs
