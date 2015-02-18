@@ -22,5 +22,6 @@ These adapters are in various states of compatibility, maturity and functionalit
 | [Sails-SQLServer](https://github.com/cnect/sails-sqlserver)                       | MSSQL          | [c*nect](https://github.com/cnect)             |
 | [Sails-REST](https://github.com/zohararad/sails-rest)                             | REST APIs      | [zohararad](https://github.com/zohararad)      |
 | [sql-layer-adapter-sails](https://github.com/FoundationDB/sql-layer-adapter-sails)| FoundationDB   | [FoundationDB](https://github.com/FoundationDB)|
+| [sails-oracle](https://github.com/atiertant/sails-oracle)| Oracle   | [atiertant](https://github.com/atiertant)|
 
 If you have an adapter you would like added, submit a PR and add it to the list.
